@@ -38,6 +38,7 @@ export const globalStyles = StyleSheet.create({
   beware: {
     color: colors.error,
     fontWeight: fontWeights.medium,
+    fontSize: fontSizes.caption,
   },
   storeTypeImage: {
     width: 25,
